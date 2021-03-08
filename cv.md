@@ -1,8 +1,24 @@
-Andrei Turov
-Telegram @aturov
-Brief information about yourself (your goal and priorities, highlight your strengths, tell us about your work experience, if there is no work experience, tell us about your aspiration and ability to learn quickly and learn new things)
-HTML, CSS & Git Basics
-``` console.log("Hello world!"); ```
+## Andrei Turov
+
+#### Contact:
+telegram @aturov
+
+#### Brief information about yourself
+
+
+#### Skills
+  * HTML, CSS & Git Basics
+
+#### Code:
+``` 
+console.log("Hello world!"); 
+```
+
+#### Projects:
 No experiences
-htmlacademy, Stepik
-Pre-intermediate 
+
+### Education
+ * htmlacademy, Stepik
+
+### English level:
+Pre-intermediate (A2)
